@@ -1,6 +1,6 @@
 export default function Button(props) {
     return (
-        <button onClick={props.event}>
+        <button onClick={props.onClick}>
             {props.value}
         </button>
 

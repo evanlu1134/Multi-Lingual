@@ -38,11 +38,8 @@
   }
 }
 
-.langauges {
-  display: flex;
-  justify-content: center;
-}
 
-#body {
+
+#app-body {
   text-align: center;
 }
